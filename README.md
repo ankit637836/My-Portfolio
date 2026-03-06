@@ -82,7 +82,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [My Portfolio](https://my-portfolio-ankit637836s-projects.vercel.app/) in your browser.
 
 ### Build for Production
 
@@ -116,10 +116,10 @@ my-portfolio/
 
 | Project | Stack | Links |
 | --- | --- | --- |
-| Macro Event Impact Analyzer & SOFR Intelligence Dashboard | Python · FastAPI · React · SQLite · FRED API · Gemini AI | [GitHub](https://github.com/ankit637836/Macro-AI-Dashboard) · [Live](https://sofr-dashboard.vercel.app) |
+| Macro Event Impact Analyzer & SOFR Intelligence Dashboard | Python · FastAPI · React · SQLite · FRED API · Gemini AI | [GitHub](https://github.com/ankit637836/Macro-AI-Dashboard) · [Live](https://macro-ai-dashboard.vercel.app/) |
 | SQL Murder Mystery — Full Investigation Walkthrough | SQL · SQLite · Joins · Aggregations · HTML | [GitHub](https://github.com/ankit637836/SQL-Murder-Mystery) · [Live](https://ankit637836.github.io/SQL-Murder-Mystery/sql_mystery.html) |
 | Credit Risk Analyzer & Portfolio Optimizer | Python · Pandas · Scikit-learn · CNN · LSTM | [GitHub](https://github.com/ankit637836/) |
-| Real-Time Face Recognition Attendance System | Python · OpenCV · CNN · HTML/CSS | [GitHub](https://github.com/ankit637836/) |
+| Real-Time Face Recognition Attendance System | Python · OpenCV · CNN · HTML/CSS | [GitHub](https://github.com/ankit637836/) · [Live](https://biometric-access-for-college.netlify.app/) |
 
 ---
 
